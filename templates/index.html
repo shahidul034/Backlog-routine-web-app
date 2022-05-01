@@ -1,0 +1,47 @@
+{% extends 'base.html' %}
+{% block title %}
+Home
+{% endblock title %}
+{% block body %}
+
+
+<div class="container mb-3">
+    <form action="/" method="POST">
+
+        <div class="form-floating mb-3">
+            <input type="text" class="form-control" name="username" id="username" placeholder="username">
+            <label for="floatingInput">Enter your anonymous username</label>
+        </div>
+        <div class="form-floating mb-3">
+            <input type="text" class="form-control" name="message" id="message" placeholder="message">
+            <label for="floatingInput">Enter your message for your teacher</label>
+        </div>
+        <button type="submit" class="btn btn-dark">Submit</button>
+    </form>
+</div>
+{{user_data}}
+
+<div class="container mb-3">
+    {%for i in (result)%}
+    <table class="table table-bordered table-dark table-hover">
+        <tr>
+            <td>{{username}}</td>
+            <td>{{i}}</td>
+        </tr>
+    </table>
+    {%endfor%}
+</div>
+
+<!-- Optional JavaScript; choose one of the two! -->
+
+<!-- Option 1: Bootstrap Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+    crossorigin="anonymous"></script>
+
+<!-- Option 2: Separate Popper and Bootstrap JS -->
+<!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
+    -->
+{% endblock body %}
