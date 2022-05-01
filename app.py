@@ -1,5 +1,4 @@
 from flask import Flask, redirect,render_template, request,redirect
-from pandas import DataFrame
 app = Flask(__name__)
 app.config['data']="static/"
 @app.route("/",methods=['GET','POST'])
