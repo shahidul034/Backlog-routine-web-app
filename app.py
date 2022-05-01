@@ -1,10 +1,6 @@
 from flask import Flask, redirect,render_template, request,redirect
 from pandas import DataFrame
-
-
-
 app = Flask(__name__)
-
 app.config['data']="static/"
 @app.route("/",methods=['GET','POST'])
 def hello_world():
@@ -17,8 +13,6 @@ def hello_world():
         user_data=[x.split(",")[1] for x in dat if x.split(",")[0] == username]
         user_data.append(message)
         return render_template('index.html', result=user_data,username=username)
-
-        
     return render_template('index.html', result=None)
         
 if __name__ == "__main__":
