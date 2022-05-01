@@ -12,7 +12,7 @@ def hello_world():
         user_data=[x.split(",")[1] for x in dat if x.split(",")[0] == username]
         user_data.append(message)
         return render_template('index.html', result=user_data,username=username)
-    return render_template('index.html', result=None)
+    return render_template('index.html', result="")
         
 if __name__ == "__main__":
     app.run(debug=True)

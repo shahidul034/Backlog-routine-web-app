@@ -22,6 +22,7 @@ Home
 {{user_data}}
 
 <div class="container mb-3">
+    {% if result!="" %}
     {%for i in (result)%}
     <table class="table table-bordered table-dark table-hover">
         <tr>
@@ -30,6 +31,10 @@ Home
         </tr>
     </table>
     {%endfor%}
+
+
+    {%endif%}
+
 </div>
 
 <!-- Optional JavaScript; choose one of the two! -->
