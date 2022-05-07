@@ -1,0 +1,64 @@
+Day:  1 ----------------------------------------
+CSE 1107(Discrete Mathematics):1707057
+CSE 2207(Numerical Methods):1607024,1407014
+CSE 3119(Software Engineering and Information Systems):1607112
+CSE 3201(Operating Systems):1607083
+CSE 4105(Computer Networks):1407026
+CSE 4127(Image Processing and Computer Vision):1607070
+CSE 4225(Embedded Systems):1507025
+CSE 4239(Data Mining):1207018,1207022
+ECE 3215(Communication Engineering):1307035
+EEE 1217(Analog Electronics):1807051,1807053,1807110,1807111,1807119,1707035,1707059,1707088,1707096,1707108,1707118,1607001,1607006,1607008,1607012,1607026,1607036,1607049,1607064,1607074,1507061,1507073,1507089,1507099,1507101,1507120
+EEE 1217(Analog Electronic Circuits):1107014
+HUM 3227(Professional Ethics and Moral Thoughts):1607111
+Total student:  39
+Unique student:  39
+Day:  2 ----------------------------------------
+CSE 2203(Microprocessors and Microcontrollers):1707021,1707028,1707037,1707059,1707075,1707077,1707081,1707089,1707096,1707097,1707108,1707112,1607013,1607024,1507101
+CSE 3211(Compiler Design):1607074,1607083,1607111,1507115
+HUM 2207(Economics and Accounting):1407014
+MATH 1207(Coordinate Geometry and Differential Equations):1807051,1807111,1807119,1707073,1707074,1707088,1707111,1607008,1607036,1607050,1607051,1507017,1507036,1507061,1507073,1507089,1507120,1407026
+MATH 1207(Mathematics-II):1107014
+Total student:  39
+Unique student:  39
+Day:  3 ----------------------------------------
+CSE 4223(Digital System Design):1507120,1407014
+ECE 3115(Data Communication):1607083,1107014
+MATH 2107(Fourier Analysis and Linear Algebra):1707118,1607002,1607015,1507021,1507036,1407026
+MATH 2107(Mathematics-III):1207018,1207052,1107050
+PHY 1107(Physics):1907025,1707021,1707048,1707057,1707059,1707064,1707071,1707074,1707084,1707088,1707089,1707098,1707119,1607049,1607064,1507099
+Total student:  29
+Unique student:  29
+Day:  4 ----------------------------------------
+CSE 2105(Data Structures and Algorithms):1707050,1707096,1707118,1607050,1507021,1407014
+CSE 2201(Algorithm Analysis and Design):1707021,1707097,1707112,1607002,1607026,1507101,1207018,1107014
+CSE 3207(Applied Statistics and Queuing Theory):1707035,1607083,1507017,1507115
+CSE 3207(Mathematical Analysis):1207022,1107050
+MATH 1107(Differential and Integral Calculus):1807066,1807110,1807121,1707057,1707073,1707111,1607012,1607015,1607024,1607049,1607064,1507120
+Total student:  32
+Unique student:  32
+Day:  5 ----------------------------------------
+CHEM 1207(Chemistry):1807051,1807053,1807111,1707071,1707111,1607049,1607064,1507061,1507089
+EEE 2113(Digital Electronics):1707050,1507021,1507099
+EEE 2113(Digital Electronics and Pulse Techniques):1207018
+EEE 2217(Electrical Drives and Instrumentation):1307035,1207022,1107050
+MATH 2207(Complex Variable, Vector Analysis and Statistics):1707021,1707028,1707088,1707112,1607002,1607015,1607120,1507073,1407026
+MATH 2207(Mathematics-IV):1207052
+Total student:  26
+Unique student:  26
+Day:  6 ----------------------------------------
+CSE 1203(Digital Logic Design):1807051,1807053,1807111,1807119,1707071,1707111,1507061
+CSE 2113(Computer Architecture):1707050,1707096,1707112,1607050,1607074,1507021,1507025
+CSE 3101(Theory of Computation):1607002,1607015,1507101,1507115
+CSE 3101(Theory of Computation):1207022,1107005,1107050
+Total student:  21
+Unique student:  21
+Day:  7 ----------------------------------------
+CSE 1201(Structured Programming):1807110,1607012,1607024,1607050,1507036,1507073
+EEE 1107(Basic Electrical Engineering):1907025,1807104,1807119,1707057,1707071,1607074
+Total student:  12
+Unique student:  12
+Day:  8 ----------------------------------------
+CSE 2101(Object Oriented Programming):1707050,1707118,1607012
+Total student:  3
+Unique student:  3

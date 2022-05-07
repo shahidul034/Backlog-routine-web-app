@@ -1,5 +1,5 @@
-# anonymous-post-web-app
+I used First-fit-decreasing (FFD)bin packing algorithm for implementation. For the front end, I used HTML, CSS, and bootstrap. For the back end, I used python and flask.
 
-This web app helps the user post their message anonymously.
+Web app: http://backlogroutine.pythonanywhere.com/
 
-Web app: https://anonymous-post.herokuapp.com/
+project link: https://github.com/shahidul034/Backlog_routine

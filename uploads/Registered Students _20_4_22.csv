@@ -1,0 +1,144 @@
+SL,Course,Roll,Remarks
+1,"CSE 1107 (3.00)
+Discrete Mathematics",1707057 (1),
+2,"EEE 1107 (3.00)
+Basic Electrical Engineering","1907025, 1807104, 1807119, 1707057, 1707071, 1607074 (6)",
+3,"MATH 1107
+(3.00)
+Differential and Integral Calculus","1807066, 1807110, 1807121, 1707057, 1707073, 1707111,
+1607012, 1607015, 1607024, 1607049, 1607064, 1507120 (12)",
+4,"PHY 1107 (3.00)
+Physics","1907025, 1707021, 1707048, 1707057, 1707059, 1707064,
+1707071, 1707074, 1707084, 1707088, 1707089, 1707098,
+1707119, 1607049, 1607064, 1507099 (16)",
+5,"CHEM 1207
+(3.00)
+Chemistry","1807051, 1807053, 1807111, 1707071, 1707111, 1607049,
+1607064, 1507061, 1507089 (9)",
+6,"CSE 1201
+(3.00)
+Structured Programming","1807110, 1607012, 1607024, 1607050, 1507036, 1507073 (6)",
+7,"CSE 1203
+(3.00)
+Digital Logic Design","1807051, 1807053, 1807111, 1807119, 1707071, 1707111,
+1507061 (7)",
+8,"EEE 1217
+(3.00)
+Analog Electronics","1807051, 1807053, 1807110, 1807111, 1807119, 1707035,
+1707059, 1707088, 1707096, 1707108, 1707118, 1607001,
+1607006, 1607008, 1607012, 1607026, 1607036, 1607049,
+1607064, 1607074, 1507061, 1507073, 1507089, 1507099,
+1507101, 1507120 (26)",
+9,"EEE 1217
+(3.00)
+Analog Electronic Circuits",1107014 (1),
+10,"MATH 1207
+(3.00)
+Coordinate Geometry and Differential Equations","1807051, 1807111, 1807119, 1707073, 1707074, 1707088,
+1707111, 1607008, 1607036, 1607050, 1607051, 1507017,
+1507036, 1507061, 1507073, 1507089, 1507120, 1407026 (18)",
+11,"MATH 1207
+(3.00)
+Mathematics-II",1107014 (1),
+12,"CSE 2101
+(3.00)
+Object Oriented Programming","1707050, 1707118, 1607012 (3)",
+13,"CSE 2105
+(3.00)
+Data Structures and Algorithms","1707050, 1707096, 1707118, 1607050, 1507021, 1407014 (6)",
+14,"CSE 2113 (3.00)
+Computer Architecture","1707050, 1707096, 1707112, 1607050, 1607074, 1507021,
+1507025 (7)",
+15,"EEE 2113 (3.00)
+Digital Electronics","1707050, 1507021, 1507099 (3)",
+16,"EEE 2113 (3.00)
+Digital Electronics and Pulse Techniques",1207018 (1),
+17,"MATH 2107
+(3.00)
+Fourier Analysis and Linear Algebra","1707118, 1607002, 1607015, 1507021, 1507036, 1407026 (6)",
+18,"MATH 2107
+(3.00)
+Mathematics-III","1207018, 1207052, 1107050 (3)",
+19,"CSE 2201
+(3.00)
+Algorithm Analysis and Design","1707021, 1707097, 1707112, 1607002, 1607026, 1507101,
+1207018, 1107014 (8)",
+20,"CSE 2203
+(3.00)
+Microprocessors and Microcontrollers","1707021, 1707028, 1707037, 1707059, 1707075, 1707077,
+1707081, 1707089, 1707096, 1707097, 1707108, 1707112,
+1607013, 1607024, 1507101 (15)",
+21,"CSE 2207
+(3.00)
+Numerical Methods","1607024, 1407014 (2)",
+22,"EEE 2217
+(3.00)
+Electrical Drives and Instrumentation","1307035, 1207022, 1107050 (3)",
+23,"HUM 2207
+(3.00)
+Economics and Accounting",1407014 (1),
+24,"MATH 2207
+(3.00)
+Complex Variable, Vector Analysis and Statistics","1707021, 1707028, 1707088, 1707112, 1607002, 1607015,
+1607120, 1507073, 1407026 (9)",
+25,"MATH 2207
+(3.00)
+Mathematics-IV",1207052 (1),
+26,"CSE 3101
+(3.00)
+Theory of Computation","1607002, 1607015, 1507101, 1507115 (4)",
+27,"CSE 3101
+(2.00)
+Theory of Computation","1207022, 1107005, 1107050 (3)",
+28,"CSE 3119 (3.00)
+Software Engineering and Information Systems",1607112 (1),
+29,"ECE 3115 (3.00)
+Data Communication","1607083, 1107014 (2)",
+30,"CSE 3201
+(3.00)
+Operating Systems",1607083 (1),
+31,"CSE 3207
+(3.00)
+Applied Statistics and Queuing Theory","1707035, 1607083, 1507017, 1507115 (4)",
+32,"CSE 3207
+(3.00)
+Mathematical Analysis","1207022, 1107050 (2)",
+33,"CSE 3211 (3.00)
+Compiler Design","1607074, 1607083, 1607111, 1507115 (4)",
+34,"ECE 3215
+(3.00)
+Communication Engineering",1307035 (1),
+35,"HUM 3227
+(3.00)
+Professional Ethics and Moral Thoughts",1607111 (1),
+36,"CSE 4105
+(3.00)
+Computer Networks",1407026 (1),
+37,"CSE 4127
+(3.00)
+Image Processing and Computer Vision",1607070 (1),
+38,"CSE 4223
+(3.00)
+Digital System Design","1507120, 1407014 (2)",
+39,"CSE 4225
+(3.00)
+Embedded Systems",1507025 (1),
+40,"CSE 4239
+(3.00)
+Data Mining","1207018, 1207022 (2)",
+41,"CSE 1202
+(1.50)
+Structured Programming Laboratory","1807110, 1507115 (2)",
+42,"EEE 1218
+(0.75)
+Analog Electronics Laboratory",1807053 (1),
+43,"CSE 2102
+(1.50)
+Object Oriented Programming Laboratory",1607051 (1),
+44,"EEE 2114 (1.50)
+Digital Electronics Laboratory",1507036 (1),
+45,"CSE 2204
+(1.50)
+Microprocessors and Microcontrollers Laboratory",1507115 (1),
+46,"ECE 3116 (0.75)
+Data Communication Laboratory",1107005 (1),

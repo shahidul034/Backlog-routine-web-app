@@ -13,7 +13,7 @@
 
     <title>{% block title %}
 
-        {% endblock title %} - Anonymous Post </title>
+        {% endblock title %} - Backlog routine </title>
 </head>
 
 <body>
@@ -24,7 +24,7 @@
 
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container-fluid">
-                <a class="navbar-brand" href="/">Anonymous Post</a>
+                <a class="navbar-brand" href="/">Backlog routine generator</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
@@ -35,7 +35,24 @@
                         <li class="nav-item">
                             <a class="nav-link active" aria-current="page" href="#">Home</a>
                         </li>
-                        
+                        <li class="nav-item">
+                            <a class="nav-link" href="/about">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/">Md. Shahidul Salim (Shakib)</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/download1"><button class='btn btn-dark'>Download course info</button></a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/download2"><button class='btn btn-dark'>Download backlog routine</button></a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/download3"><button class='btn btn-dark'>Download student info</button></a>
+                        </li>
+                         <li class="nav-item">
+                            <a href="/download4"><button class='btn btn-dark'>Tutorial</button></a>
+                        </li>
 
 
                     </ul>
@@ -46,12 +63,7 @@
         {% block body %}
 
         {% endblock body %}
-        <footer>
-            <p style="background-color:rgb(2, 27, 31);text-align:center;color:whitesmoke;"> Md. Shahidul Salim
-            </p>
-            <p style="background-color:rgb(2, 27, 31);text-align:center;color:white;"><a
-                    href="mailto:shahidulshakib034@gmail.com">shahidulshakib034@gmail.com</a></p>
-        </footer>
+
     </div>
 </body>
 
